@@ -1,6 +1,4 @@
-## delay-gene-expression-model
-
-These are the codes for a paper submitted to Physical Review E journal. 
+## Fixed and distributed delays from a family of gene transcription models 
 
 
 
